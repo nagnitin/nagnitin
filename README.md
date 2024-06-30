@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagnitin" alt="nagnitin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nitinnnn__" target="blank"><img src="https://img.shields.io/twitter/follow/nitinnnn__?logo=twitter&style=for-the-badge" alt="nitinnnn__" /></a> </p>
-
+<h3 align="left">About Me:</h3>
 - 🔭 I’m currently working on **an educational e-learning platform**
 
 - 🌱 I’m currently learning **Go lang and Motion Designing**
