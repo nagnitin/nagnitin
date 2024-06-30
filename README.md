@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Go lang and Motion Designing**
 
 - 💬 Ask me about **Python,Web Development,App Development and tips to ace communication ;)**
-
+- 🌱 I’m currently learning **Go lang and Motion Designing**
 - 📫 How to reach me **nitin.rn.nag@gmail.com**
 
 - ⚡ Fun fact **I think I am a Tech Explorer Extraordinaire**
