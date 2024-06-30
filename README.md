@@ -8,7 +8,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/nitinnnn__" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fx-logo&psig=AOvVaw0XFillfV_-VTz9rhioOaGs&ust=1719863845676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjZ7J6OhIcDFQAAAAAdAAAAABAE" alt="nitinnnn__" /></a> </p>-->
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on **an e-learning platform**
+- 🔭 I’m currently working on **an educational e-learning platform**
 
 - 🌱 I’m currently learning **Go lang and Motion Designing**
 
