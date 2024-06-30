@@ -32,8 +32,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nagnitin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nagnitin" /></a></p><br><br>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagnitin" alt="nagnitin" /></a> </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagnitin&show_icons=true&locale=en&layout=compact" alt="nagnitin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagnitin&show_icons=true&locale=en" alt="nagnitin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagnitin&" alt="nagnitin" /></p>
+
+<p align="left"> <a href="https://twitter.com/nitinnnn__" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fx-logo&psig=AOvVaw0XFillfV_-VTz9rhioOaGs&ust=1719863845676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjZ7J6OhIcDFQAAAAAdAAAAABAE" alt="nitinnnn__" /></a> </p>
