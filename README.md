@@ -23,7 +23,7 @@
 <a href="https://twitter.com/nitinnnn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitinnnn__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitin-ranjan-nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-ranjan-nag" height="30" width="40" /></a>
 <a href="https://instagram.com/nitinnnn.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitinnnn.__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nitin-rn-nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitin-rn-nag" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/nitin_rn_nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitin-rn-nag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
