@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **an educational e-learning platform**
 
-- 🌱 I’m currently learning **Go lang, AIML and Motion Designing**
+- 🌱 I’m currently learning **Go lang and Motion Designing**
 
 - 💬 Ask me about **Python,Web Development,App Development and tips to ace communication ;)**
 
