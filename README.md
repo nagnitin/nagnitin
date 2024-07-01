@@ -11,7 +11,7 @@
 <!-- 🔭 I’m currently working on **an educational e-learning platform**-->
  <!--🔭 I’m currently working on an e-learning platform-->
 
--  🔭 I’m currently working on **an e-learning platform**
+-  🔭 I’m currently working on **an e-learning and on an online shopping platform**
 
 - 💬 Ask me about **Python,Web Development,App Development, any general software development questions and tips to ace communication ;)**
 - 🌱 I’m currently learning **Go lang and Motion Designing**
