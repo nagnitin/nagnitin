@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](nagnitin.io)
+[![MasterHead](https://camo.githubusercontent.com/d5e260cd2600454c2736f2c53e35d2aa65da6a9504041dece08bc943934a2eaa/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966)](nagnitin.io)
 <h1 align="center">Hi 👋, I'm Nitin!</h1>
 <h3 align="center">A passionate Wev developer || Tech Aficionado || 5 ⭐️ in Python @HackerRank || MERN || Python Developer || Network Hacker || 2x Hackathon Winner</h3>
 <img align="right" alt = "Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmoqzuumbp7jz8lgagsohg0duf7twwvtq4ca8vul&ep=v1_gifs_search&rid=200w.gif&ct=g">
