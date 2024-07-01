@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0623eb46935b09561cb677d5ddcf2fdba06bc6e20851d7e6d51b7b4af126fdce/68747470733a2f2f6669766572722d7265732e636c6f7564696e6172792e636f6d2f696d616765732f745f6d61696e312c715f6175746f2c665f6175746f2c715f6175746f2c665f6175746f2f6174746163686d656e74732f64656c69766572792f61737365742f32386634343133623237653264353134326362326366343132353736623562652d313636373030323839362f7375706572706978656c657273616e696d6174696f6e2f6372656174652d612d637573746f6d2d706978656c2d6172742d77616c6c70617065722d6261636b67726f756e642e676966)](nagnitin.io)
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](nagnitin.io)
 <h1 align="center">Hi 👋, I'm Nitin!</h1>
 <h3 align="center">A passionate Wev developer || Tech Aficionado || 5 ⭐️ in Python @HackerRank || MERN || Python Developer || Network Hacker || 2x Hackathon Winner</h3>
 <img align="right" alt = "Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmoqzuumbp7jz8lgagsohg0duf7twwvtq4ca8vul&ep=v1_gifs_search&rid=200w.gif&ct=g">
@@ -36,7 +36,7 @@
 <p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagnitin" alt="nagnitin" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagnitin&show_icons=true&locale=en&layout=compact" alt="nagnitin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagnitin&show_icons=true&locale=en&layout=compact" alt="nagnitin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagnitin&show_icons=true&locale=en" alt="nagnitin" /></p>
 
