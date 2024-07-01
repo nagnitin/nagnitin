@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Go lang and Motion Designing**
 - 📫 How to reach me **nitin.rn.nag@gmail.com**
 
-- ⚡ Fun fact **I think I am a Tech Explorer Extraordinaire**
+- ⚡ Fun fact **My name is a palindrome! It's like it has a built-in rewind button!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
