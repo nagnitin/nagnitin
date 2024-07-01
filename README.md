@@ -13,7 +13,7 @@
 
 -  🔭 I’m currently working on **an e-learning platform**
 
-- 💬 Ask me about **Python,Web Development,App Development and tips to ace communication ;)**
+- 💬 Ask me about **Python,Web Development,App Development, any general software development questions and tips to ace communication ;)**
 - 🌱 I’m currently learning **Go lang and Motion Designing**
 - 📫 How to reach me **nitin.rn.nag@gmail.com**
 
