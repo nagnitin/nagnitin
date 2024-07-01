@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](nagnitin.io)
 <h1 align="center">Hi 👋, I'm Nitin!</h1>
-<h3 align="center">A passionate Wev developer || Tech Aficionado || 5 ⭐️ in Python @HackerRank || MERN || Python Developer || Network Hacker || 2x Hackathon Winner</h3>
+<h3 align="center">A passionate Wev developer || Tech Aficionado || 5 ⭐️ in Python @HackerRank || MERN Dev || PHP Dev || Python Developer || Network Hacker || 2x Hackathon Winner</h3>
 <img align="right" alt = "Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmoqzuumbp7jz8lgagsohg0duf7twwvtq4ca8vul&ep=v1_gifs_search&rid=200w.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagnitin&label=Profile%20views&color=0e75b6&style=flat" alt="nagnitin" /> </p>
 
