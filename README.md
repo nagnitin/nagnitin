@@ -15,7 +15,7 @@
 -  🔭 I’m currently working on **an edtech platform.**
 
 - 💬 Ask me about **Python,Web Development,App Development, any general software development questions and tips to ace communication ;)**
-- 🌱 I’m currently learning **DevOps, Three.js and Motion Designing**
+- 🌱 I’m currently learning **DevOps and Motion Designing**
 - 📫 How to reach me **nitin.rn.nag@gmail.com**
 
 - ⚡ Fun fact **My name is a palindrome! It's like it has a built-in rewind button!**
