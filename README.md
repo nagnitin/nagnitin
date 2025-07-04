@@ -26,7 +26,8 @@
 <a href="https://linkedin.com/in/nitin-ranjan-nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-ranjan-nag" height="30" width="40" /></a>
 <a href="https://instagram.com/nitinnnn.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitinnnn.__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/nitin_rn_nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitin-rn-nag" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nagnitin/" target="blank"><img align="center" src="https://brandfetch.com/geeksforgeeks.org?view=library&library=default&collection=logos&asset=idFKvyQOZ_&utm_source=https%253A%252F%252Fbrandfetch.com%252Fgeeksforgeeks.org&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="nitin-rn-nag" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/nagnitin/" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/e0e92b3d-caf4-44ef-b5e2-850c19ced5a7)
+" alt="nagnitin" height="30" width="40" /></a>
 </p>
 <h3 align="left">My Motto:</h3>
 <img align="center" alt = "Motto" width="400" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
